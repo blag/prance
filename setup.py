@@ -74,7 +74,7 @@ if __name__ == '__main__':
       author = 'Jens Finkhaeuser',
       author_email = 'jens@finkhaeuser.de',
       url = 'https://github.com/jfinkhaeuser/prance',
-      license = 'MITNFA',
+      license = 'MIT+NFA',
       packages = find_packages(exclude = ['ez_setup', 'examples', 'tests']),
       include_package_data = True,
       install_requires = [
